@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a791eeb7e380e94f8bf6d7d950b4d38, type: 3}
+  m_Name: noMask
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 13186e60108b95744b3b96ff49df9602, type: 2}
+  - {fileID: 11400000, guid: 05367b64cb80bdd4fb35cccfe498fdab, type: 2}
+  text:
+  - characterIndex: 0
+    message: You want a mask?
+    speed: 15
+  - characterIndex: 1
+    message: Yeah, can I have one?
+    speed: 15
+  - characterIndex: 0
+    message: Sure you can, I just need you to pay me a zschibbel.
+    speed: 15
+  - characterIndex: 1
+    message: A zschibbel?
+    speed: 15
+  - characterIndex: 0
+    message: Mhhmmm..
+    speed: 9
+  - characterIndex: 0
+    message: We're not giving away items for free around here.
+    speed: 15
+  - characterIndex: 1
+    message: <i>I guess I'll just go look for a zschibbel.</i>
+    speed: 15

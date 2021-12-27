@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78a08ca5db56ae046be2efd21a556337, type: 3}
+  m_Name: MaskSeller
+  m_EditorClassIdentifier: 
+  name: Mask Seller
+  color: {r: 0.8301887, g: 0, b: 0, a: 1}
+  voice:
+  - {fileID: 8300000, guid: 02bf533420cb3a84ea885eacafcc13d2, type: 3}
+  sprite: {fileID: 0}

@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: c62e1a3e1f8b3c2489a5430890bbae47
+SketchUpImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: See-Through
+    second: {fileID: 2100000, guid: f90b385cd67ff4b46b695d8f85a43ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Aluminum]'
+    second: {fileID: 2100000, guid: fb9faa582476b2948a7ec5c612160239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Blacktop New]'
+    second: {fileID: 2100000, guid: 4f5bfc4c1bfaf8740ba314efc16784c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Blacktop Old 01]'
+    second: {fileID: 2100000, guid: 2db7975bf5c300540b6d29f05db4790a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Brick Antique 01]'
+    second: {fileID: 2100000, guid: 908fda7b51b358d4bbf40c9ae158bdb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A04]'
+    second: {fileID: 2100000, guid: 941741f3d7f273542980a14a57dd787c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M00]'
+    second: {fileID: 2100000, guid: a7a836ddeb74c5a47af83543bef90be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M06]'
+    second: {fileID: 2100000, guid: 4885a602398ce7248a80680a6b658313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 705987fcc7204394f93734b3bdc583ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Concrete Block Retaining Gray]1'
+    second: {fileID: 2100000, guid: b1a2d4aa619b6424eb5e286951670afe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing Metal Straight]'
+    second: {fileID: 2100000, guid: 3c2a0da5fc375774797cfd35fbc26799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing Metal Straight]1'
+    second: {fileID: 2100000, guid: 837a56c034811e64fb36526fdcdb0056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing Picket Concave]'
+    second: {fileID: 2100000, guid: 6f6e829876a36ff4bb84d831b2f4ffb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Granite Light Gray]'
+    second: {fileID: 2100000, guid: d4e08dee152d91d4c9ff266aad33c619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Light Green]'
+    second: {fileID: 2100000, guid: 5854d5e4efbb28943b649ed9e97100b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]'
+    second: {fileID: 2100000, guid: f46e93f269c147c438b044199f1d6c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]1'
+    second: {fileID: 2100000, guid: ac65a66cb67ccfe4986965048b0d04ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]2'
+    second: {fileID: 2100000, guid: b7f3a5c2d4e3ad5459aae7aeae07ef73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]3'
+    second: {fileID: 2100000, guid: 424dc3dd0f0a08a4d92473c727be1960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]4'
+    second: {fileID: 2100000, guid: 2522c335dddf1304bbe790ce19966853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Modern Siding]'
+    second: {fileID: 2100000, guid: 653e73e50e7886841b77028d04b9ae2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Polished Concrete Old]'
+    second: {fileID: 2100000, guid: 8338b7f9f15444b43a75cf1cebb8b444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing Shingles GAF Estates]'
+    second: {fileID: 2100000, guid: a26e8a87414f3744c8e33ef8ad3c9828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing Shingles GAF Estates]1'
+    second: {fileID: 2100000, guid: 241782ae593547240b3b9c606fb4acfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing Shingles Multi]'
+    second: {fileID: 2100000, guid: 776efb41fb930e5449334ade879f6c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone Masonry Multi]'
+    second: {fileID: 2100000, guid: 68ef7e2d0c4a5c940983d29535135839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Suede Dark Gray]'
+    second: {fileID: 2100000, guid: 02ba94089c3f6e44ca661f83d698c542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Gray]'
+    second: {fileID: 2100000, guid: bcf8ce4b0c81c574d871393d492296d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Vegetation Blur 03]'
+    second: {fileID: 2100000, guid: bc3c1c4a7967ad942a669edef234fbc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wallpaper Stripe]'
+    second: {fileID: 2100000, guid: 3a4c08d7c3f6bb14db8f4bd26570516c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Water Deep]'
+    second: {fileID: 2100000, guid: 24b2b20e5a06be545a6a1f4dcd2f2c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Bamboo]'
+    second: {fileID: 2100000, guid: aec170589c96682469dbe79615efa16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Fence with Lattice]'
+    second: {fileID: 2100000, guid: 8b4808e33141646448f0900f18105dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Fence]'
+    second: {fileID: 2100000, guid: ffd2ebcff6124774ca1e6a914ea1a25d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Fence]1'
+    second: {fileID: 2100000, guid: 378ac1985c3d1ce4596633a3ed2e7105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Fence]2'
+    second: {fileID: 2100000, guid: bdb1f653c74bbcb4d958f49f267cd80a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Floor]'
+    second: {fileID: 2100000, guid: 01596778ebbfce64ab82ede8b230dbad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Floor]1'
+    second: {fileID: 2100000, guid: 86ddf8f8b6077524593daaaad6111b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Veneer 01]'
+    second: {fileID: 2100000, guid: 4c2b45c94ff19f849a1bda925931fb11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 28ed5aa6d5f81e843ad8463ffc36e2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: f0ffa2d1b9908fb488c4a0c1ca8ff86e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2800000, guid: 5c3eb9260aa7f444db2788e1fe66ebde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blacktop New_tint0x5E5E5EFF
+    second: {fileID: 2800000, guid: 44578c7fc8ef47048b3dec522619e836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blacktop Old 01
+    second: {fileID: 2800000, guid: 5ba41a7315d3d28478774b7415b625b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_Antique
+    second: {fileID: 2800000, guid: 267cf362867957a44b57273c1f7c263c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Block_Retaining_Gray
+    second: {fileID: 2800000, guid: 8101326ffba33cd4ebc7794bd64256f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Metal_Straight
+    second: {fileID: 2800000, guid: a349277ee3bb72742bc3044bef6148b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Picket_Concave
+    second: {fileID: 2800000, guid: 1510354fcfb95be458c5cd0c70ef9821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Granite 02
+    second: {fileID: 2800000, guid: c797da0be8349414cb2c27dded5dac35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass Light Green
+    second: {fileID: 2800000, guid: 2096187ebfa2725438893f05e720826e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Sand_Smooth
+    second: {fileID: 2800000, guid: c744d4027ef49634ca604cb114bff83e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Sand_Smooth_tint0x86693FFF
+    second: {fileID: 2800000, guid: a85e25ffeb070484cb5486b726910ef7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Sand_Smooth_tint0x9A6C2CFF
+    second: {fileID: 2800000, guid: d4a1ea6ad93da0141be1f1fa64bb6630, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leather Suede
+    second: {fileID: 2800000, guid: 4f774c151f2fc1647b4235daf80b68c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Modern Siding_tint0xB2B2B2FF
+    second: {fileID: 2800000, guid: d7d6e81573198f84783278b9c46b09e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Polished Concrete Old
+    second: {fileID: 2800000, guid: 6798d236b6b4eb443ac83141dad5629b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_GAF_Estates
+    second: {fileID: 2800000, guid: b00a697b9d39fa44c97d6fced7f14098, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_Multi
+    second: {fileID: 2800000, guid: 42f3e36c8e2f74740ac2b77901d7325a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Masonry_Multi
+    second: {fileID: 2800000, guid: 3ffc3c579f31a1345af438454d5896c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Blur7
+    second: {fileID: 2800000, guid: 8135dafbaf13ca74688ecfefe9649d00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wallpaper Stripe
+    second: {fileID: 2800000, guid: 246463f8ea817224db1718744c973d7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water_Deep_tint0x046580FF
+    second: {fileID: 2800000, guid: 96a0bb2fcb1083846aae13e789f79520, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood 01
+    second: {fileID: 2800000, guid: a12cdd3e00240b341990f5d1ce62a411, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Fence
+    second: {fileID: 2800000, guid: 3ca112c885eb08246bc3f9759105c602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Fence with Lattice
+    second: {fileID: 2800000, guid: 78751d6397297c146ab967a2e8174678, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Fence_tint0x8F624BFF
+    second: {fileID: 2800000, guid: 7f42c62ed9ec8e64394eb25152da3957, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Bamboo_Medium_tint0xCECECEFF
+    second: {fileID: 2800000, guid: a8484929e8064984c8a638085f7aa63e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Floor
+    second: {fileID: 2800000, guid: 70391ad3382f83447ba02820b87a4de1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: transparent
+    second: {fileID: 2800000, guid: cb2ab2dc972b889408d7883e9874b26a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trees
+    second: {fileID: 2800000, guid: 17a74e715572bb2478eb1ec4919875fc, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f4142b2800c3baf35b7476a167d6e046
+  fileUnit: 0

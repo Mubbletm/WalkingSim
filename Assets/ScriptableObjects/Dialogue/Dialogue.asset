@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a791eeb7e380e94f8bf6d7d950b4d38, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 05367b64cb80bdd4fb35cccfe498fdab, type: 2}
+  - {fileID: 11400000, guid: fba696e7d4bd60d48b1dead768873405, type: 2}
+  text:
+  - characterIndex: 0
+    message: This is a player message
+    speed: 15
+  - characterIndex: 1
+    message: This is I, Mubble, talking to you.
+    speed: 15
+  - characterIndex: 0
+    message: <i>Here I am talking fancy to you</i>
+    speed: 15
+  - characterIndex: 0
+    message: I wanna talk some more...
+    speed: 15
+  - characterIndex: 1
+    message: Now it's up to me to finish the conversation.
+    speed: 15
